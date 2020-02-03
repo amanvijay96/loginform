@@ -1,0 +1,12 @@
+.home{
+  width: 80vw;
+}
+.query-div{
+  width: 80vw;
+  padding: 5px 10px;
+  border-radius: 7px;
+  outline: none;
+}
+.query-div:hover{
+  border-color: rgb(156, 156, 245);
+}
