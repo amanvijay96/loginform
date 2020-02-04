@@ -35,7 +35,7 @@ class NormalLoginForm extends React.Component {
     // })
       }
       const { username, password } = this.state;
-      if (username === 'A' && password === 'B') {
+      if (username === 'amanvj' && password === '12345') {
         this.setState({
           loggedIn: true
         });
